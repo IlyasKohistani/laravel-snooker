@@ -21,10 +21,10 @@ $factory->define(User::class, function (Faker $faker) {
     return [
         'username' => 'admin',
         'password' =>  bcrypt('password'),
-        'email' => 'alyas.kohistani@gmail.com',
-        'firstname' => 'Mohammad Ilyas',
-        'lastname' => 'Kohistani',
-        'phone' => '00905526996353',
+        'email' => 'admin@gmail.com',
+        'firstname' => 'Super Admin',
+        'lastname' => 'Admin',
+        'phone' => '0019999999999',
         'gender' => 1,
         'store_id' => 1, // password
         'group_id' => 1,
