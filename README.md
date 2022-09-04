@@ -5,7 +5,7 @@
 A management system built for snooker club. You can manage all your users, products, orders, tables, users, and income. You can have a graphical beautiful report with multiple options Yearly, Monthly, and Daily. You can use the same system for a restaurant and ignore snooker tables. You are 100% allowed to use this webpage for both personal and commercial use, but NOT to claim it as your own. 
 
 
-![Snapshot](https://github.com/IlyasKohistani/laravel-snooker/blob/main/public/img/snapshot.png)
+![Snapshot](https://github.com/IlyasKohistani/laravel-snooker/blob/main/public/images/snapshot.png)
 
 ---
 
